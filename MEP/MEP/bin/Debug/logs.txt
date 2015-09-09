@@ -1,0 +1,16 @@
+01:38:47 AM: System.IO.FileNotFoundException: Could not find file '.\Assets\Resource\Realistic Colors by Lucke189\CommonRes\grass_meshes.brf_b'.
+File name: '.\Assets\Resource\Realistic Colors by Lucke189\CommonRes\grass_meshes.brf_b'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at MEP.Code.Binary_Generator.Mods.Realistic_Colors.editor() in c:\Users\n\Documents\Visual Studio 2013\Projects\MEP\MEP\Code\Binary Generator\Mods\Realistic Colors.cs:line 37
+   at MEP.Code.Binary_Generator.MainLoop..ctor() in c:\Users\n\Documents\Visual Studio 2013\Projects\MEP\MEP\Code\Binary Generator\MainLoop.cs:line 88
+01:42:12 AM: System.IO.IOException: The file 'C:\Program Files (x86)\Mount&Blade With Fire and Sword\Modules\Ogniem i Mieczem/Resource/grass_meshes.brf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at MEP.Code.Binary_Generator.Mods.Realistic_Colors.editor() in c:\Users\n\Documents\Visual Studio 2013\Projects\MEP\MEP\Code\Binary Generator\Mods\Realistic Colors.cs:line 36
+   at MEP.Code.Binary_Generator.MainLoop..ctor() in c:\Users\n\Documents\Visual Studio 2013\Projects\MEP\MEP\Code\Binary Generator\MainLoop.cs:line 88
+01:44:31 AM: System.IO.IOException: The file 'C:\Program Files (x86)\Mount&Blade With Fire and Sword\Modules\Ogniem i Mieczem/Resource/grass_meshes.brf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at MEP.Code.Binary_Generator.Mods.Realistic_Colors.editor() in c:\Users\n\Documents\Visual Studio 2013\Projects\MEP\MEP\Code\Binary Generator\Mods\Realistic Colors.cs:line 37
+   at MEP.Code.Binary_Generator.MainLoop..ctor() in c:\Users\n\Documents\Visual Studio 2013\Projects\MEP\MEP\Code\Binary Generator\MainLoop.cs:line 88

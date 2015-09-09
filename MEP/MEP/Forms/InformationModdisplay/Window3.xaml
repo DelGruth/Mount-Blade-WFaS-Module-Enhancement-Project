@@ -1,0 +1,11 @@
+﻿<Window x:Class="MEP.Forms.InformationModdisplay.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window3" Height="438.926" Width="589.12" Background="Black" Foreground="#FFBABABA" Icon="/MEP;component/Ypf-Transformers-Folder-open-floder.ico">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="280" Margin="10,0,0,0" VerticalAlignment="Top" Width="548" Source="http://img823.imageshack.us/img823/3220/headpreviews4.jpg" RenderTransformOrigin="0.5,0.5" Stretch="UniformToFill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,285,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="63" Width="548" FontSize="16"><Run Language="en-za" Text="The "/><Run Text="Face Improvement Project"/><Run Language="en-za" Text=" was created"/><Run Text=" by Iboltax"/><LineBreak/><Run Language="en-za" Text="It adds new skins to WFaS and makes the already existing ones look new and fresh. "/></TextBlock>
+        <Button Content="Back" HorizontalAlignment="Left" Height="27" Margin="10,348,0,0" VerticalAlignment="Top" Width="125" Click="Button_Click"/>
+
+    </Grid>
+</Window>

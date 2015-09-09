@@ -1,0 +1,16 @@
+﻿<Window x:Class="MEP.Forms.InformationModdisplay.Window5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MEP" Height="482.089" Width="683.583" Icon="/MEP;component/Ypf-Transformers-Folder-open-floder.ico" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" Background="Black" Foreground="#FFBABABA">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="65*"/>
+            <ColumnDefinition Width="67*"/>
+            <ColumnDefinition Width="293*"/>
+        </Grid.ColumnDefinitions>
+        <Image HorizontalAlignment="Left" Height="304" Margin="0,10,0,0" VerticalAlignment="Top" Width="666" Grid.ColumnSpan="3" Source="http://pici.se/pictures/fDhGJaFEF.jpg" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="28,319,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="89" Width="613" Grid.ColumnSpan="3" FontSize="18"><Run Language="en-za" Text="The"/><Run Text=" Realistic Colors "/><Run Language="en-za" Text="mod was created by Lucke189."/><LineBreak/><Run Language="en-za" Text="It replaces the default textures with better looking ones and gives a dark-medieval gotcic type feelings to the scenes."/></TextBlock>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="42,407,0,0" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2" Click="Button_Click" Height="35"/>
+
+    </Grid>
+</Window>

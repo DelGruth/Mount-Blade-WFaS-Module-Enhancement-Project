@@ -1,0 +1,11 @@
+﻿<Window x:Class="MEP.Forms.InformationModdisplay.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window2" Height="326.567" Width="470.149" Background="Black" Foreground="#FFBABABA">
+    <Grid>
+        
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="106" Width="452" FontSize="18"><Run Language="en-za" Text="This enhancement adds better blood particles to the game and was created by neil_v"/><LineBreak/><Run Language="en-za"/><LineBreak/><Run Language="en-za" Text="Preview"/><Run Language="en-za" Text=" Co"/><Run Language="en-za" Text="ming soon...."/></TextBlock>
+        <Button Content="Back" HorizontalAlignment="Left" Height="34" Margin="0,253,0,0" VerticalAlignment="Top" Width="122" Click="Button_Click"/>
+
+    </Grid>
+</Window>

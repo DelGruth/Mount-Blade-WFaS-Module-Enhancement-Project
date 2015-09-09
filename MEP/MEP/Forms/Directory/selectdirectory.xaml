@@ -1,0 +1,11 @@
+﻿<Window x:Class="MEP.Forms.Directory.selectdirectory"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MEP" Height="300" Width="300" Activated="Window_Activated" ResizeMode="CanMinimize" Icon="/MEP;component/Ypf-Transformers-Folder-open-floder.ico" WindowStartupLocation="CenterScreen" Background="Black" Foreground="#FFBABABA" Topmost="True" SizeToContent="WidthAndHeight">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="184" Margin="10,0,0,0" TextWrapping="Wrap" Text="Please enter your directory path to your Ogniem i Mieczem module,this is not the path where your WFaS.exe is located but rather in a subdirectory namely Modules/Ogniem i Mieczem&#xD;&#xA;&#xD;&#xA;Example of how to enter it EXACTLY: C:\Program Files (x86)\Mount&amp;Blade With Fire and Sword\Modules\Ogniem i Mieczem    " VerticalAlignment="Top" Width="272" TextChanged="TextBox_TextChanged" IsEnabled="False"/>
+        <TextBox x:Name="enterdir" HorizontalAlignment="Left" Height="50" Margin="10,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="272" TextChanged="enterdir_TextChanged"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Height="21" Margin="211,239,0,3" Width="71" Click="Button_Click"/>
+
+    </Grid>
+</Window>

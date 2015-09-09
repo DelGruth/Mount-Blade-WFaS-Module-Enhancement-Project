@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MEP</name>
+    </assembly>
+    <members>
+        <member name="T:MEP.Forms.AfterModsSelection.ModsConfirmation">
+            <summary>
+            Interaction logic for ModsConfirmation.xaml
+            </summary>
+            <summary>
+            ModsConfirmation
+            </summary>
+        </member>
+        <member name="M:MEP.Forms.AfterModsSelection.ModsConfirmation.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.Forms.Directory.customdirectory">
+            <summary>
+            Interaction logic for customdirectory.xaml
+            </summary>
+            <summary>
+            customdirectory
+            </summary>
+        </member>
+        <member name="M:MEP.Forms.Directory.customdirectory.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.Forms.Directory.selectdirectory">
+            <summary>
+            Interaction logic for selectdirectory.xaml
+            </summary>
+            <summary>
+            selectdirectory
+            </summary>
+        </member>
+        <member name="M:MEP.Forms.Directory.selectdirectory.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.Forms.InformationModdisplay.Window2">
+            <summary>
+            Interaction logic for Window2.xaml
+            </summary>
+            <summary>
+            Window2
+            </summary>
+        </member>
+        <member name="M:MEP.Forms.InformationModdisplay.Window2.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.Forms.InformationModdisplay.Window3">
+            <summary>
+            Interaction logic for Window3.xaml
+            </summary>
+            <summary>
+            Window3
+            </summary>
+        </member>
+        <member name="M:MEP.Forms.InformationModdisplay.Window3.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.Forms.InformationModdisplay.Window4">
+            <summary>
+            Interaction logic for Window4.xaml
+            </summary>
+            <summary>
+            Window4
+            </summary>
+        </member>
+        <member name="M:MEP.Forms.InformationModdisplay.Window4.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.Forms.InformationModdisplay.Window5">
+            <summary>
+            Interaction logic for Window5.xaml
+            </summary>
+            <summary>
+            Window5
+            </summary>
+        </member>
+        <member name="M:MEP.Forms.InformationModdisplay.Window5.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.Forms.MainWindow.help">
+            <summary>
+            Interaction logic for help.xaml
+            </summary>
+            <summary>
+            help
+            </summary>
+        </member>
+        <member name="M:MEP.Forms.MainWindow.help.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.Forms.modpage1uninstall">
+            <summary>
+            Interaction logic for modpage1uninstall.xaml
+            </summary>
+            <summary>
+            modpage1uninstall
+            </summary>
+        </member>
+        <member name="M:MEP.Forms.modpage1uninstall.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.Forms.Porgress_window.pl">
+            <summary>
+            Interaction logic for pl.xaml
+            </summary>
+            <summary>
+            pl
+            </summary>
+        </member>
+        <member name="M:MEP.Forms.Porgress_window.pl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.Forms.Selection.userSelection">
+            <summary>
+            Interaction logic for userSelection.xaml
+            </summary>
+            <summary>
+            userSelection
+            </summary>
+        </member>
+        <member name="M:MEP.Forms.Selection.userSelection.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:MEP.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:MEP.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:MEP.Forms.InformationModdisplay.Window1">
+            <summary>
+            Window1
+            </summary>
+        </member>
+        <member name="M:MEP.Forms.InformationModdisplay.Window1.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.Forms.modpage1">
+            <summary>
+            Interaction logic for modpage1.xaml
+            </summary>
+            <summary>
+            modpage1
+            </summary>
+        </member>
+        <member name="M:MEP.Forms.modpage1.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:MEP.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:MEP.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:MEP.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:MEP.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

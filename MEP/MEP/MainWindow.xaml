@@ -1,0 +1,18 @@
+﻿<Window x:Class="MEP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="M.E.P." Height="443.404" Width="614.511" WindowStyle="ThreeDBorderWindow" Background="Black" Icon="Ypf-Transformers-Folder-open-floder.ico" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,2,-3">
+        <ContentControl HorizontalAlignment="Left" Margin="173,138,0,0" VerticalAlignment="Top"/>
+        <Label Content="Welcome to the Mount&amp;Blade:WFaS native module enhancer." HorizontalAlignment="Left" Height="40" Margin="32,10,-12,0" VerticalAlignment="Top" Width="531" FontSize="18"/>
+        <TextBlock x:Name="updated" HorizontalAlignment="Left" Height="239" Margin="32,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="498" Loaded="updated_Loaded" Foreground="#FFBABABA">
+            <TextBlock.Effect>
+                <DropShadowEffect/>
+            </TextBlock.Effect>
+        </TextBlock>
+        <Button x:Name="buttonUpdatecontinue" Content="" HorizontalAlignment="Left" Height="37" Margin="452,349,0,0" VerticalAlignment="Top" Width="99" Click="buttonUpdatecontinue_Click" Loaded="buttonUpdatecontinue_Loaded"/>
+        <Button Content="Exit" HorizontalAlignment="Left" Height="37" Margin="10,349,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click" />
+        <Button Content="?" HorizontalAlignment="Left" Margin="563,20,0,0" VerticalAlignment="Top" Width="31" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
