@@ -1,6 +1,6 @@
 # Mount-Blade-WFaS-Module-Enhancement-Project
 a old and abadonned project to make it easier for the user to install mods meant for Warband for WFaS
-,bad coding practices but does the job.
+,bad coding practices but does the job.The folders in the Release/Debug folders needs to be in the same directory as the executables to work a alternative would be to download the mods while the user is installing them.
 
 The code is released under MIT license which is written below.
 
